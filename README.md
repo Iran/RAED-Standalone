@@ -1,1 +1,0 @@
-RAED v1.26 (patched by Nyerguds) with the required data files to start editing standalone. No missions/maps included.
